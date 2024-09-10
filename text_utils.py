@@ -36,3 +36,4 @@ def count_sentences(text):
             sentence_count += 1
     
     return sentence_count
+
